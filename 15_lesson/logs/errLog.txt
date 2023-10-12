@@ -1,0 +1,8 @@
+20231003	21:42:47	3da60f6c-30b2-4ddb-992a-8a91526d5e26	Error: Not allowed by CORS
+20231004	21:40:29	c3dedfca-47f0-4d35-9842-706ef74aa62f	SyntaxError: Unexpected token J in JSON at position 13
+20231004	21:43:29	c2d3f791-12cf-4111-8f02-59e57d584092	SyntaxError: Unexpected token } in JSON at position 7
+20231005	21:11:36	87a2dba5-b4e9-4929-b0a4-fae5368208ed	ReferenceError: eq is not defined
+20231009	21:06:09	12027683-ddba-4b6e-b41c-93e657dc4668	TypeError: authHeader?.startWith is not a function
+20231009	21:09:21	1de141a7-b708-4cb3-bf4d-2c2e14adbe24	TypeError: rolesArray.inclides is not a function
+20231012	20:26:54	946e4a3e-f9c3-4b03-b519-0a6df7f1d283	SyntaxError: Unexpected token a in JSON at position 11
+20231012	20:27:49	3948d041-c714-4c2c-9a41-abef4b796e75	SyntaxError: Unexpected token a in JSON at position 11

@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "-": "^0.0.1",
+    "data-fns": "^1.1.0",
+    "date-fns": "^2.30.0",
+    "g": "^2.0.1",
+    "nodemon": "^3.0.1",
+    "uuid": "^9.0.1"
+  },
+  "name": "04_lesson",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodeman": "^1.1.2"
+  }
+}

@@ -1,0 +1,4 @@
+20231003	21:42:47	3da60f6c-30b2-4ddb-992a-8a91526d5e26	Error: Not allowed by CORS
+20231004	21:40:29	c3dedfca-47f0-4d35-9842-706ef74aa62f	SyntaxError: Unexpected token J in JSON at position 13
+20231004	21:43:29	c2d3f791-12cf-4111-8f02-59e57d584092	SyntaxError: Unexpected token } in JSON at position 7
+20231005	21:11:36	87a2dba5-b4e9-4929-b0a4-fae5368208ed	ReferenceError: eq is not defined
